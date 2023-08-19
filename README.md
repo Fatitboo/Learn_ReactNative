@@ -8,4 +8,4 @@
 * branch "test-notification-app" : Test Notification App
   
 
-=> Ngôn ngữ: React Native 
+Công nghệ: React Native 
